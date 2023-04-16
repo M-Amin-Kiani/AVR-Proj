@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:567AB996
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:3 "C:\cvavr\inc\stdlib.h"
+NODE:I LEVEL:0 LINE:4 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:6 "C:\cvavr\inc\alcd.h"
+NODE:V LEVEL:0 LINE:9 "tenth -> R4,R5"
+NODE:V LEVEL:0 LINE:9 "Sec -> R6,R7"
+NODE:V LEVEL:0 LINE:9 "Min -> R8,R9"
+NODE:V LEVEL:0 LINE:9 "Hour -> R10,R11"
+NODE:V LEVEL:0 LINE:10 "St -> RAM:????"
+NODE:F LEVEL:0 LINE:12 "timer0_comp_isr(void)"
+NODE:F LEVEL:0 LINE:32 "main(void)"
